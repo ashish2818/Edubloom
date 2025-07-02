@@ -67,7 +67,7 @@ exports.paymentSuccessEmail = (name, amount, orderId, paymentId) => {
     
     <body>
         <div class="container">
-            <a href="https://edubloom-frontend.vercel.app/"><img class="logo" src="https://ibb.co/jZ57JFww/logo1.png"
+            <a href="https://edubloom-frontend.vercel.app/"><img class="logo" src="https://ibb.co/jZ57JFww"
                     alt="EduBloom Logo"></a>
             <div class="message">Course Payment Confirmation</div>
             <div class="body">

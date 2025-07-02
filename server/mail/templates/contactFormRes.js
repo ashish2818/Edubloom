@@ -75,7 +75,7 @@ exports.contactUsEmail = (
   <body>
       <div class="container">
           <a href="https://edubloom-frontend.vercel.app"><img class="logo"
-                  src="https://ibb.co/jZ57JFww/logo1.png" alt="Edubloom Logo"></a>
+                  src="https://ibb.co/jZ57JFww" alt="Edubloom Logo"></a>
           <div class="message">Contact Form Confirmation</div>
           <div class="body">
               <p>Dear ${firstname} ${lastname},</p>
