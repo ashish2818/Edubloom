@@ -27,7 +27,10 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
 	cors({
-		origin: "https://edubloom-frontend.vercel.app",
+		origin:[
+			"https://edubloom-frontend.vercel.app",  // deployed frontend
+             "http://localhost:3000" 
+		],
 		methods:["GET","HEAD","PUT","PATCH","POST","DELETE"],
 		credentials: true,
 	})
