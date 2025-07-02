@@ -56,7 +56,7 @@ exports.passwordUpdated = (email, name) => {
     <body>
         <div class="container">
             <a href="https://edubloom-frontend.vercel.app"><img class="logo"
-                    src="https://ibb.co/jZ57JFww/logo1.png" alt="EduBloom Logo"></a>
+                    src="https://i.ibb.co/0pNQj1Ny/logo1.png" alt="EduBloom Logo"></a>
             <div class="message">Password Update Confirmation</div>
             <div class="body">
                 <p>Hey ${name},</p>
